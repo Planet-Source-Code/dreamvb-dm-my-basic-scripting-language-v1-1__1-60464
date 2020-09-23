@@ -1,0 +1,11 @@
+REM Using Consts
+
+CONST PI = 27/7
+CONST Name = "My BasicScript"
+CONST Number = 516
+
+PRINT "Value of PI is" & PI
+PRINT "Name is: " & Name
+PRINT "Number is: " & Number
+PAUSE
+END
