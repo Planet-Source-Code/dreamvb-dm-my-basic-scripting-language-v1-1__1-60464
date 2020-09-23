@@ -1,0 +1,22 @@
+Compiling the project.
+
+Open Visual Basic or double click Make.vbg. Once in VB File->Make Project Group
+This will then create devEnv.exe in this folder.
+and also engine\engine.exe
+
+That’s it your finished.
+Note docs\help.chm for more information the scripting language
+This is also viewable from the IDE.
+
+O one quick note I have left a Batch file for UPX.
+You can use it compress engine.exe if needed.
+
+UPX can be freely downloaded from http://www.upx.org/
+once downloaded place in engine\
+
+Next update should be in one or two days. Until then have fun.
+Questions comments to vbdream2k@yahoo.com
+
+Last-update
+2:35 PM 5/10/2005
+
